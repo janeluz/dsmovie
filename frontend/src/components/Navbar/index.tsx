@@ -14,7 +14,7 @@ function Navbar() {
         </div>
       </nav>
     </header>
-  )
+  );
 }
 
 export default Navbar
